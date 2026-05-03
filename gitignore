@@ -1,0 +1,36 @@
+# Source code — keep private
+arm_converter.py
+build_nuitka.bat
+icon.svg
+icon.ico
+
+# Build outputs
+dist/
+build/
+*.build/
+*.dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local development
+.vscode/
+.idea/
+*.spec
+
+# Python virtual envs
+venv/
+env/
+.venv/
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Personal usage data
+arm_converter_settings.json
+journal.json
+history.json
+templates.json
+crash.log

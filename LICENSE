@@ -1,0 +1,50 @@
+ARM ⇄ Hex Converter
+Copyright (c) 2024 Jastere
+All rights reserved.
+
+LICENSE TERMS
+
+This software is distributed in binary form only. Source code is not
+included and no source-code rights are granted.
+
+YOU MAY:
+  - Download and use this software for personal use, education,
+    research, and modification of software you own or have permission
+    to modify.
+  - Run the software on as many of your own computers as you like.
+
+YOU MAY NOT:
+  - Reverse engineer, decompile, or disassemble the binary except as
+    required by applicable law that overrides this restriction.
+  - Redistribute the binary, in original or modified form, on any
+    platform, server, or website without explicit written permission
+    from the author.
+  - Re-upload the binary to alternative download sources, mirror sites,
+    file-sharing platforms, or repackagings.
+  - Sell, sublicense, rent, lease, or otherwise commercially exploit
+    this software.
+  - Remove, alter, or obscure any copyright, trademark, or attribution
+    notices in the software or its documentation.
+  - Use this software to violate the Terms of Service of any third-
+    party software, service, or game; to distribute pirated content;
+    or to attack systems you do not have explicit permission to access.
+
+NO WARRANTY
+  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+  OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+  ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+  OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIRD-PARTY COMPONENTS
+  This software bundles the following open-source libraries, used under
+  their respective licenses:
+
+  - Keystone Engine (LGPL-2.0)  https://www.keystone-engine.org/
+  - Capstone Engine (BSD-3)     https://www.capstone-engine.org/
+
+CONTACT
+  Issues and feature requests: see the project's GitHub Issues page.
+  Other inquiries: through the GitHub profile of the author.
