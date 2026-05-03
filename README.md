@@ -53,9 +53,6 @@ See [TOOLS.md](TOOLS.md) for the full feature reference.
    ### Patch journal
    ![Journal](screenshots/journal.png)
 
-   ### Migrate to new version
-   ![Migrate](screenshots/migrate.png)
-
 ---
 
 ## Quick start
@@ -80,6 +77,10 @@ See [TOOLS.md](TOOLS.md) for the full feature reference.
 The .exe is compiled with [Nuitka](https://nuitka.net/), which translates Python to C and produces a real native Windows binary. Some antivirus engines occasionally flag any compiled-Python tool as suspicious due to generic ML heuristics — this is a known industry-wide issue with packaged Python applications, not specific to this tool.
 
 If your antivirus flags the download:
+
+https://www.virustotal.com/gui/file/9191319b085dff1c80f0f1e743f795bd8487b8daef5f1bb926a42af823a3ea72?nocache=1
+
+9191319b085dff1c80f0f1e743f795bd8487b8daef5f1bb926a42af823a3ea72
 
 1. **Verify the SHA-256 hash** matches the one published on the Releases page (verifies the file you downloaded is the file I built)
 2. **Submit to VirusTotal** at https://www.virustotal.com/ — most major engines (Kaspersky, BitDefender, ESET, Avast, AVG, McAfee, Sophos, Trend Micro, Malwarebytes, etc.) clear the binary
